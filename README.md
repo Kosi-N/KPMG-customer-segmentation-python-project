@@ -11,7 +11,7 @@ The primary objective is to develop a data-driven customer segmentation and targ
 
 Click [here](https://github.com/Kosi-N/KPMG-customer-segmentation-python-project/blob/8a86309dfe47ec80e77c96db0e9ad2b7c4ad5d66/KPMG%20python%20data%20analysis%20(1).ipynb) for Data Exploration and analysis 
 
-# Results
+
 
 
 
